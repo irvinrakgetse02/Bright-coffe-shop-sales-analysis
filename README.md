@@ -1,1 +1,3 @@
-# Bright-coffe-shop-case-study
+# ** Bright-coffe-shop-case-study
+
+# overview 
