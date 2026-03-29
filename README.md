@@ -41,26 +41,25 @@ My goal is to translate six months of transactional data into a Strategic Growth
 
 🎨 **Canva**:for designing and presenting the final presentation
 
-# 🎥 How to View
--💻**SQL Code** - Includes all queries used for data transformation and insights. 
+.-💻SQL Code - Includes all queries used for data transformation and insights. > 🔗 View SQL Scripts
 
--📊**Excel Pivot Table** - is available in PDF format within this repository.
+-📊Excel Pivot Table - is available in PDF format within this repository.- >🔗View Pivot Table
 
--📽️**Full presentation** - is available in PDF format within this repository.
+-📽️Full presentation - is available in PDF format within this repository.- >🔗View Presentation
 
--🧹**Uncleaned Data** - is available in CSV format within this repository.
+-🧹Uncleaned Data - is available in CSV format within this repository.- >🔗View Uncleaned Data
 
--✨**Cleaned Data** - is available in CSV format within this repository.
+-✨Cleaned Data - is available in CSV format within this repository.- >🔗View Cleaned Data
 
--📝**Project Description** - This File Shows The Objective And Aims Of The New CEO.  ->[view project](https://github.com/irvinrakgetse02/Bright-coffe-shop-sales-analysis/commit/b38dd3f05f6c1d5be37086b2c27a6ac64059f3de)
+-📝Project Description - This File Shows The Objective And Aims Of The New CEO.- >🔗 View Project Description
 
--📅**Gantt Charts** - is available in PDF format within this repository.- >🔗View Gantt Charts
+-📅Gantt Charts - is available in PDF format within this repository.- >🔗View Gantt Charts
 
--🧠 **Miro Planning** - This includes project goals, KPIs, filters, and design planning > 🔗View Miro Board
+-🧠 Miro Planning - This includes project goals, KPIs, filters, and design planning > 🔗View Miro Board
 
-📩 **Contact**
-For more information and also to colaborate?
-📧 **Email**:
+📩 Contact
+Want to collaborate or have feedback?
+📧 Email: Njabuloxnkosi12@gmail.com 🔗 LinkedIn:(www.linkedin.com/in/njabulo-nkosi-949359325)
 
 
 
