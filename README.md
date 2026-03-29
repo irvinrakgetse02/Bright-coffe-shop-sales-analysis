@@ -43,23 +43,25 @@ My goal is to translate six months of transactional data into a Strategic Growth
 
 # 🎥 How to View
 
-.-💻SQL Code - Includes all queries used for data transformation and insights. > 🔗 [View SQL Scripts](https://github.com/irvinrakgetse02/Bright-coffe-shop-sales-analysis/blob/main/3%20Data%20processing/bright%20coffee%20code.sql)
+**.-💻SQL Code*8 - Includes all queries used for data transformation and insights. > 🔗 [View SQL Scripts](https://github.com/irvinrakgetse02/Bright-coffe-shop-sales-analysis/blob/main/3%20Data%20processing/bright%20coffee%20code.sql)
 
 -📊Excel Pivot Table - is available in PDF format within this repository.- >🔗[View Pivot Table](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Firvinrakgetse02%2FBright-coffe-shop-sales-analysis%2Frefs%2Fheads%2Fmain%2F3%2520Data%2520processing%2Fgraphs.xlsx&wdOrigin=BROWSELINK)
 
--📽️Full presentation - is available in PDF format within this repository.- >🔗[View Presentation](https://github.com/irvinrakgetse02/Bright-coffe-shop-sales-analysis/blob/0cd8044416d892c0a1362dd89a789cba04d8f9fa/4%20Project%20presentation/bright%20coffee%20shop%20presentation.pdf)
+**-📽️Full presentation** - is available in PDF format within this repository.- >🔗[View Presentation](https://github.com/irvinrakgetse02/Bright-coffe-shop-sales-analysis/blob/0cd8044416d892c0a1362dd89a789cba04d8f9fa/4%20Project%20presentation/bright%20coffee%20shop%20presentation.pdf)
 
--🧹Uncleaned Data - is available in CSV format within this repository.- >🔗[View Uncleaned Data](https://raw.githubusercontent.com/irvinrakgetse02/Bright-coffe-shop-sales-analysis/refs/heads/main/1%20Project%20description%20%26%20raw%20data/Bright_Coffee_Shop_Analysis(raw%20data).csv)
+**-🧹Uncleaned Data** - is available in CSV format within this repository.- >🔗[View Uncleaned Data](https://raw.githubusercontent.com/irvinrakgetse02/Bright-coffe-shop-sales-analysis/refs/heads/main/1%20Project%20description%20%26%20raw%20data/Bright_Coffee_Shop_Analysis(raw%20data).csv)
 
--📝Project Description - This File Shows The Objective And Aims Of The New CEO.- >🔗 [View Project Description](https://github.com/irvinrakgetse02/Bright-coffe-shop-sales-analysis/blob/main/1%20Project%20description%20%26%20raw%20data/Bright_Coffee_Shop_Sales_Analysis(project%20description%20pdf).pdf)
+**-📝Project Description** - This File Shows The Objective And Aims Of The New CEO.- >🔗 [View Project Description](https://github.com/irvinrakgetse02/Bright-coffe-shop-sales-analysis/blob/main/1%20Project%20description%20%26%20raw%20data/Bright_Coffee_Shop_Sales_Analysis(project%20description%20pdf).pdf)
 
--📅Gantt Charts - is available in PDF format within this repository.- >🔗[View Gantt Charts](https://github.com/irvinrakgetse02/Bright-coffe-shop-sales-analysis/blob/main/2%20project%20planning/gantt%20chart.pdf)
+**-📅Gantt Charts** - is available in PDF format within this repository.- >🔗[View Gantt Charts](https://github.com/irvinrakgetse02/Bright-coffe-shop-sales-analysis/blob/main/2%20project%20planning/gantt%20chart.pdf)
 
--🧠 Miro Planning - This includes project goals, KPIs, filters, and design planning > 🔗View Miro Board
+**-🧠 Miro Planning** - This includes project goals, KPIs, filters, and design planning > 🔗[View Miro Board](https://github.com/irvinrakgetse02/Bright-coffe-shop-sales-analysis/blob/main/2%20project%20planning/miro%20planning%20for%20brightlearn%20study%20case1.pdf)
 
-📩 Contact
-Want to collaborate or have feedback?
-📧 Email: [irvinrakgetse02@gmail.com] 🔗 LinkedIn:[linkedin profile](https://www.linkedin.com/feed/)
+**📩 Contact**
+**Want to collaborate or have feedback?**
+Im open to discussing data analytics or potential collaborations.feel free to reach out with feedback  or to connect
+📧 Email: [irvinrakgetse02@gmail.com](mailto:irvinrakgetse02@mail.com) 
+🔗 LinkedIn:[linkedin profile](https://www.linkedin.com/feed/)
 
 
 
