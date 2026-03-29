@@ -52,7 +52,7 @@ My goal is to translate six months of transactional data into a Strategic Growth
 
 -✨**Cleaned Data** - is available in CSV format within this repository.
 
--📝**Project Description** - This File Shows The Objective And Aims Of The New CEO.
+-📝**Project Description** - This File Shows The Objective And Aims Of The New CEO.  ->[view project](https://github.com/irvinrakgetse02/Bright-coffe-shop-sales-analysis/commit/b38dd3f05f6c1d5be37086b2c27a6ac64059f3de)
 
 -📅**Gantt Charts** - is available in PDF format within this repository.- >🔗View Gantt Charts
 
