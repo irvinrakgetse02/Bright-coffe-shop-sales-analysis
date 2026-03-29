@@ -58,9 +58,12 @@ My goal is to translate six months of transactional data into a Strategic Growth
 **-🧠 Miro Planning** - This includes project goals, KPIs, filters, and design planning > 🔗[View Miro Board](https://github.com/irvinrakgetse02/Bright-coffe-shop-sales-analysis/blob/main/2%20project%20planning/miro%20planning%20for%20brightlearn%20study%20case1.pdf)
 
 **📩 Contact**
+
 **Want to collaborate or have feedback?**
 Im open to discussing data analytics or potential collaborations.feel free to reach out with feedback  or to connect
+
 📧 Email: [irvinrakgetse02@gmail.com](mailto:irvinrakgetse02@mail.com) 
+
 🔗 LinkedIn:[linkedin profile](https://www.linkedin.com/feed/)
 
 
