@@ -61,7 +61,7 @@ My goal is to translate six months of transactional data into a Strategic Growth
 
 📩 Contact
 Want to collaborate or have feedback?
-📧 Email: Njabuloxnkosi12@gmail.com 🔗 LinkedIn:(www.linkedin.com/in/njabulo-nkosi-949359325)
+📧 Email: Njabuloxnkosi12@gmail.com 🔗 LinkedIn:[linkedin](https://www.linkedin.com/feed/)
 
 
 
